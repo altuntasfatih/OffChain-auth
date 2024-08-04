@@ -1,0 +1,18 @@
+{
+  "name": "offchain-auth",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "(cd e2e && npx playwright test)"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@metamask/jazzicon": "^2.0.0",
+    "@typeform/embed": "^4.9.0",
+    "@wagmi/chains": "^1.8.0",
+    "@wagmi/connectors": "^5.1.1",
+    "@wagmi/core": "^2.6.5"
+  },
+  "description": ""
+}
