@@ -1,6 +1,6 @@
 # Off-chain Authentication
 
-it is demo application for [this medium post](https://medium.com/p/b781f590583e/edit)
+This is application of [Off-Chain Authentication in Elixir with MetaMask article](https://medium.com/@altuntasfatih42/off-chain-authentication-in-elixir-with-metamask-b781f590583e)
 
 To start your application:
 
